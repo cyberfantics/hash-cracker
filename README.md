@@ -12,7 +12,7 @@ A Python script to crack hashes from a `.hex` file using a wordlist. The script 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/cyberfantics/hash-crack.git
+   git clone https://github.com/cyberfantics/hash-cracker.git
    ```
 2. Install dependencies:
    ```bash
@@ -23,7 +23,7 @@ A Python script to crack hashes from a `.hex` file using a wordlist. The script 
 
 1. Run the script:
    ```bash
-   python3 hash_cracker.py
+   python3 main.py
    ```
 2. Follow the prompts to input:
    - Hex file path
