@@ -1,4 +1,4 @@
-# Hash Cracking Tool
+## Hash Cracking Tool
 
 A Python script to crack hashes from a `.hex` file using a wordlist. The script supports MD5, SHA1, and SHA256 algorithms.
 
